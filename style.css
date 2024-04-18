@@ -1,0 +1,54 @@
+h1 {
+  color: rgb(0, 56, 199);
+  background-color: rgb(255, 255, 255);
+}
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  font-optical-sizing: auto;
+  background-image: url("https://www.thisisanfield.com/wp-content/uploads/Salah-LFCCity-600x400.jpg");
+}
+
+p {
+  color: aliceblue;
+}
+div{
+background-color: aliceblue;
+}
+#video-1div
+{
+background-color: chartreuse;
+}
+#video-2div
+{
+background-color: aqua;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+
+}
+
+img{
+  border-radius:30px;
+}
